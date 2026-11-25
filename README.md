@@ -2,6 +2,9 @@
 
 ## Project Overview
 An exploratory data analysis project examining 113,999 Spotify tracks to identify patterns in music popularity, genre characteristics, artist representation, and audio features.
+## Tableau Dashboard
+
+![Spotify Dashboard](spotify_dashboard.png)
 
 ## Tools & Technologies
 - **Python:** Pandas, Matplotlib, Seaborn
